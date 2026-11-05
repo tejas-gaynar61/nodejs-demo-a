@@ -119,4 +119,4 @@ if (require.main === module) {
 }
 
 module.exports = { handler };
-EOF
+
